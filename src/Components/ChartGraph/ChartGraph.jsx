@@ -24,6 +24,3 @@ const ChartGraph = () => {
 };
 
 export default ChartGraph;
-
-
-export default ChartGraph;
